@@ -1,8 +1,8 @@
 programa {
   funcao inicio() {
     //Nome: Laura Fabian
-    //SÈrie: 2-F
+    //S√©rie: 2-F
     //Meu primeiro programa em portugol :)
-    escreva("Ol·, Mundo!")
+    escreva("Ol√°, Mundo!")
   }
 }
