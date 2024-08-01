@@ -1,12 +1,12 @@
 programa {
   funcao inicio() {
     
-  //DeclarÁ„o de varÌaveis
+  //Declar√ß√£o de var√≠aveis
    real imc, peso, altura
    cadeia nome 
 
-  //Inicio de cÛdigo
-  escreva ("Ol·, Qual o seu nome? ")
+  //Inicio de c√≥digo
+  escreva ("Ol√°, Qual o seu nome? ")
   leia (nome)
   escreva (nome, " insira seu peso (Kg): ")
   leia (peso) 
@@ -15,7 +15,7 @@ programa {
 
   imc= peso / altura * altura
 
-  escreva (nome," seu imc È " , imc)
+  escreva (nome," seu imc √© " , imc)
 
   se(imc < 18.5) {
     escreva (", Abaixo do peso.")
