@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    //Comparação entre enquanto e faça-enquanto
+    //ComparaÃ§Ã£o entre enquanto e faÃ§a-enquanto
     logico condicao
     condicao = falso
     enquanto(condicao){
@@ -9,8 +9,8 @@ programa {
     escreva("Fora do Enquanto\n")
     condicao = falso
     faca{
-      escreva("Mensagem dentro do Faça-enquanto\n")
+      escreva("Mensagem dentro do FaÃ§a-enquanto\n")
     } enquanto(condicao)
-    escreva("Fora do faça enquanto")
+    escreva("Fora do faÃ§a enquanto")
   }
 }
